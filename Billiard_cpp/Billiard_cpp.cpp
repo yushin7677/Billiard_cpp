@@ -14,7 +14,7 @@ void begin3(ye::World& world);
 int WinMain() {
 
 	// Системные настройки
-	setlocale(LC_ALL, "Russian");
+	locale::global(locale("russian_russia.1251"));
 	srand(time(NULL));
 
 	//
