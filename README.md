@@ -5,4 +5,4 @@
 Скачать проект и открыть его в Visual Studio
 
 ## Как играть
-
+Распаковать "program.zip" и запустить "Billiard_cpp.exe"
