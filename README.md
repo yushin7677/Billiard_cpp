@@ -5,4 +5,8 @@
 Скачать проект и открыть его в Visual Studio
 
 ## Как играть
-Распаковать "program.zip" и запустить "Billiard_cpp.exe"
+1) жмем зеленую кнопку code->download zip. 
+2) Архив скачивается. 
+3) Распаковываем архив
+4) распаковываем program.zip
+5) запускаем Billiard_cpp.exe
